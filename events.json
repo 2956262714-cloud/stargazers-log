@@ -1,0 +1,34 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "JavaScript",
+    "stars": 2150,
+    "updatedAt": "2026-09-18",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source repository for GitHub's documentation.",
+    "language": "JavaScript",
+    "stars": 16400,
+    "updatedAt": "2026-09-12",
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "name": "microsoft/Web-Dev-For-Beginners",
+    "description": "24 lessons, 12 weeks, 24 quizzes, all about web development.",
+    "language": "JavaScript",
+    "stars": 88000,
+    "updatedAt": "2026-08-30",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "language": "JavaScript",
+    "stars": 132000,
+    "updatedAt": "2026-08-21",
+    "url": "https://github.com/vercel/next.js"
+  }
+]
