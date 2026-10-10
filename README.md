@@ -7,15 +7,9 @@
 
 我已经学会了 pwd , ls 和 git status 命令
 
-
-
 \##Windows Git  学习记录
 
-
-
 今天我成功在 Windows 上安装配置了 Git。
-
-
 
 我已经学会了使用 SSH 连接 Github，并通过 git clone 下载远程仓库。
 
@@ -24,3 +18,9 @@
 这段内容是在 Github 网页上修改的。
 
 接下来我将使用 git pull 将它同步到 Windows 电脑。
+
+##git fetch 实验
+
+这是我在 Github 网页上新增的内容。
+
+我将观察 git fetch 是否直接修改 Windows 本地文件
