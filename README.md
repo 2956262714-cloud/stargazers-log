@@ -19,3 +19,8 @@
 
 我已经学会了使用 SSH 连接 Github，并通过 git clone 下载远程仓库。
 
+##Git pull 学习记录
+
+这段内容是在 Github 网页上修改的。
+
+接下来我将使用 git pull 将它同步到 Windows 电脑。
